@@ -1,0 +1,73 @@
+{
+  "item": {
+    "id": "979841259501",
+    "restype": "watchface",
+    "name": "纸间晨光",
+    "description": "*纸间晨光*相册表盘，支持两种样式，多种自定义项可配置，表盘底图随心切换，提供自动裁切预览网站，一键出底图，安装后可于设备页-已安装表盘-纸间晨光-右上角三个点自由切换底图。",
+    "preview": [
+      "media/29092.webp",
+      "media/29093.webp",
+      "media/29063.png"
+    ],
+    "icon": "media/29090.png",
+    "cover": "media/29092.webp",
+    "author": [
+      {
+        "name": "ys9679",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "表盘底图裁切网站",
+      "url": "https://image.sakuraki.love",
+      "icon": "instagram-logo"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.1",
+      "file_name": "downloads/Rw5纸间晨光 · Vellum.mwz",
+      "versionCode": 65537
+    },
+    "xmrw5xring": {
+      "version": "1.0.1",
+      "file_name": "downloads/Rw5纸间晨光 · Vellum-xmrw5xring.mwz",
+      "versionCode": 65537
+    },
+    "xmrw6": {
+      "version": "1.0.1",
+      "file_name": "downloads/Rw6纸间晨光 · Vellum.mwz",
+      "versionCode": 65537
+    },
+    "xmb10": {
+      "version": "1.0.1",
+      "file_name": "downloads/米环10纸间晨光 · Vellum.mwz",
+      "versionCode": 65537
+    },
+    "xmb10nfc": {
+      "version": "1.0.1",
+      "file_name": "downloads/米环10纸间晨光 · Vellum-xmb10nfc.mwz",
+      "versionCode": 65537
+    },
+    "xmb10p": {
+      "version": "1.0.1",
+      "file_name": "downloads/米环10Pro纸间晨光 · Vellum.mwz",
+      "versionCode": 65537
+    },
+    "xmb11": {
+      "version": "1.0.1",
+      "file_name": "downloads/米环11纸间晨光 · Vellum.bin",
+      "versionCode": 65537
+    },
+    "xmb11nfc": {
+      "version": "1.0.1",
+      "file_name": "downloads/米环11纸间晨光 · Vellum.bin",
+      "versionCode": 65537
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
